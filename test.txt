@@ -6,3 +6,6 @@ initialise
 develop
 
 test
+
+deploy
+
