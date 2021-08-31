@@ -1,6 +1,6 @@
 
 
-welcome
+print("welcome")
 
 initialise
 develop
